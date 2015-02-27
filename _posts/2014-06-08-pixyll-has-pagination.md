@@ -7,3 +7,5 @@ categories: jekyll pixyll
 ---
 
 This is an empty post to illustrate the pagination component with Pixyll.
+
+It even has more than one line!
